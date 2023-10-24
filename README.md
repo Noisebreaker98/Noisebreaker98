@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hola! Soy Rubén Navarro 👋
+Estudiante de 2ºDAW en IES Juan Bosco (Alcázar de San Juan)<br>
+Aprendiendo: Javascript,Java,php,SQL,git,HTML5,CSS3<br>
+Interés en: Angular
 
 <!--
 **Noisebreaker98/Noisebreaker98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
